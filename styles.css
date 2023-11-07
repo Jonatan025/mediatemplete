@@ -1,0 +1,69 @@
+/* CSS Document for mutlimedia Template*/
+
+body{
+	background-color: #606c38
+}
+
+.pagebox{
+	background-color: #fefaeo;
+	width: 70%;
+	margin: auto;
+}
+*header{
+	background-image: url('images/banner.jpg')
+	background-size: cover;
+	height: 30px;
+	position: relative;
+}
+
+*H1{
+	font-size: 71px;
+	font-family: Times New Roman;
+	color:#fefaeo;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.topnav{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #fefaeo;
+	float: left;
+	font-family: Times New Roman;	
+}
+
+.current{
+	background-color: #fb8500
+}
+
+*h2{
+	font-family: Times New Roman;
+	color: #ffb703;	
+}
+
+*pic1{
+	width: 33%;
+	float: left;
+	padding: 3px
+}
+
+hr{
+	clear:both;
+}
+
+*pic2{
+	width: 33%; 
+}
+
+*audio{
+	width:50%;
+}
+
+*footer{
+	font-style: italic;
+	text-align: center;
+}
+
+
